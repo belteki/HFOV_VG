@@ -1,8 +1,6 @@
 # HFOV-VG
 
-This repository will contain the code used for data processing, statistical analysis and visualization described in the following paper: **"High frequency oscillatory ventilation with volume guarantee: a single centre experience"** *
-
-PLEASE LOOK BACK HERE LATER THIS IS WORK IN PROGRESS
+This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"High frequency oscillatory ventilation with volume guarantee: a single centre experience. Published in _Arch Dis Child Fetal Neonatal Ed_, in press"** *
 
 Authors: Gusztav Belteki MD, PhD, FRCPCH & Colin Morley MD, FRCPCH 
 
